@@ -38,32 +38,32 @@
 
 - ## 📝 My Articles
 
-- RSA (Rivest-Shamir-Adleman),ECC (Elliptic Curve Cryptography) &PQC (Post-Quantum Cryptography)
+- 📝RSA (Rivest-Shamir-Adleman),ECC (Elliptic Curve Cryptography) &PQC (Post-Quantum Cryptography)
 
 [[https://www.notion.so/RSA-Rivest-Shamir-Adleman-ECC-Elliptic-Curve-Cryptography-PQC-Post-Quantum-Cryptography-267a75ff954a80e98fb2c171d3111ff8?source=copy_link](https://www.notion.so/RSA-Rivest-Shamir-Adleman-ECC-Elliptic-Curve-Cryptography-PQC-Post-Quantum-Cryptography-267a75ff954a80e98fb2c171d3111ff8?pvs=21)]
 
 *A simple knowladge about RSA and ECC and PQC cryptography.*
 
-- Integrate the Gemini API to add AI capabilities (e.g., text generation, chat functionality) to your MERN project.
+- 📝Integrate the Gemini API to add AI capabilities (e.g., text generation, chat functionality) to your MERN project.
 
 [[https://www.notion.so/Integrate-the-Gemini-API-to-add-AI-capabilities-e-g-text-generation-chat-functionality-to-your--255a75ff954a80f6aac8ddfcaac16262?source=copy_link](https://www.notion.so/Integrate-the-Gemini-API-to-add-AI-capabilities-e-g-text-generation-chat-functionality-to-your--255a75ff954a80f6aac8ddfcaac16262?pvs=21)]
 
-Integrate your project through the google gemini api to make your project better
+ Integrate your project through the google gemini api to make your project better
 
-- Dns work flow
+- 📝Dns work flow
 
 [[https://www.notion.so/How-DNS-Works-248a75ff954a8042a1ebe03366149541?source=copy_link](https://www.notion.so/How-DNS-Works-248a75ff954a8042a1ebe03366149541?pvs=21)]
 
 how dns work you can explore it out
 
-MCP CORE CONCEPT
+ 📝MCP CORE CONCEPT
 
 [[https://www.notion.so/MCP-server-core-concept-235a75ff954a8067ab49e834989eadff?source=copy_link](https://www.notion.so/MCP-server-core-concept-235a75ff954a8067ab49e834989eadff?pvs=21)]
 
-MCP ARCHITECTURE OVERVIEW
+ 📝MCP ARCHITECTURE OVERVIEW
 
 [[https://www.notion.so/MCP-Architecture-Overview-231a75ff954a801bbc14e698baef45fc?source=copy_link](https://www.notion.so/MCP-Architecture-Overview-231a75ff954a801bbc14e698baef45fc?pvs=21)]
 
-MCP STANDRARIDIZED
+ 📝MCP STANDRARIDIZED
 
 [[https://www.notion.so/Mcp-standardized-222a75ff954a80e8a8d7cbab9062ed65?source=copy_link](https://www.notion.so/Mcp-standardized-222a75ff954a80e8a8d7cbab9062ed65?pvs=21)]
