@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently exploring **Typescript**
+- 🌱 I’m currently exploring **n8n**
 
 - 👯 I’m looking to collaborate on **Web apps**
 
-- 💬 Ask me about **React nodejs**
+- 💬 Ask me about **React nodejs CICD **
 
 - 📫 How to reach me **karkilov46@gmail.com**
 
