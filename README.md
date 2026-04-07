@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently exploring **n8n**
+- 🌱 I’m currently exploring **n8n,k8s**
 
 - 👯 I’m looking to collaborate on **Web apps**
 
-- 💬 Ask me about **React nodejs CICD **
+- 💬 Ask me about **React nodejs CICD pipeline , kuberneties**
 
 - 📫 How to reach me **karkilov46@gmail.com**
 
