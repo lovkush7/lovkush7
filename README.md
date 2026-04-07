@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web apps**
 
-- 💬 Ask me about **React nodejs CICD pipeline , kuberneties**
+- 💬 Ask me about **React nodejs CICD pipeline , kuberneties, Docker**
 
 - 📫 How to reach me **karkilov46@gmail.com**
 
