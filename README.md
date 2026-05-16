@@ -29,7 +29,6 @@ I'm a **Full Stack Developer and DevOps enthusiast** based in Nepal, focused on 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🚀 Tech Stack
 
 **Frontend**
 
