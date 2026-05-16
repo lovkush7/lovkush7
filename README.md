@@ -56,9 +56,7 @@ I'm a **Full Stack Developer and DevOps enthusiast** based in Nepal, focused on 
 ]
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovkush7&show_icons=true&locale=en&layout=compact" alt="lovkush7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovkush7&show_icons=true&locale=en" alt="lovkush7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovkush7&" alt="lovkush7" /></p>
 
