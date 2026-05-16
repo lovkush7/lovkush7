@@ -5,14 +5,18 @@
 
 <p align="left"> <a href="https://twitter.com/lov karki" target="blank"><img src="https://img.shields.io/twitter/follow/lov karki?logo=twitter&style=for-the-badge" alt="lov karki" /></a> </p>
 
--👨‍💻 About Me
-I'm a Full Stack Developer and DevOps enthusiast based in Nepal, focused on building scalable web applications and automating infrastructure. I work across the full stack — from designing React UIs to containerizing services with Docker and orchestrating them with Kubernetes.
--🔭 Currently building and shipping full-stack web applications
--🌱 Deep-diving into n8n workflow automation and Kubernetes orchestration
--🛠️ Strong with CI/CD pipelines — from code to production, automated
--👯 Open to collaborating on open-source web apps and DevOps tooling
--💬 Ask me about React, Node.js, Docker, Kubernetes, or CI/CD
--📫 Reach me at karkilov46@gmail.com
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer and DevOps enthusiast** based in Nepal, focused on building scalable web applications and automating infrastructure. I work across the full stack — from designing React UIs to containerizing services with Docker and orchestrating them with Kubernetes.
+
+- 🔭 Currently building and shipping **full-stack web applications**
+- 🌱 Deep-diving into **n8n workflow automation** and **Kubernetes orchestration**
+- 🛠️ Strong with **CI/CD pipelines** — from code to production, automated
+- 👯 Open to collaborating on **open-source web apps and DevOps tooling**
+- 💬 Ask me about **React, Node.js, Docker, Kubernetes, or CI/CD**
+- 📫 Reach me at **karkilov46@gmail.com**
+
 - ⚡ Fun fact **I am totally funny boy**
 
 <h3 align="left">Connect with me:</h3>
