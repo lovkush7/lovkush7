@@ -7,12 +7,12 @@
 
 -👨‍💻 About Me
 I'm a Full Stack Developer and DevOps enthusiast based in Nepal, focused on building scalable web applications and automating infrastructure. I work across the full stack — from designing React UIs to containerizing services with Docker and orchestrating them with Kubernetes.
-🔭 Currently building and shipping full-stack web applications
-🌱 Deep-diving into n8n workflow automation and Kubernetes orchestration
-🛠️ Strong with CI/CD pipelines — from code to production, automated
-👯 Open to collaborating on open-source web apps and DevOps tooling
-💬 Ask me about React, Node.js, Docker, Kubernetes, or CI/CD
-📫 Reach me at karkilov46@gmail.com
+-🔭 Currently building and shipping full-stack web applications
+-🌱 Deep-diving into n8n workflow automation and Kubernetes orchestration
+-🛠️ Strong with CI/CD pipelines — from code to production, automated
+-👯 Open to collaborating on open-source web apps and DevOps tooling
+-💬 Ask me about React, Node.js, Docker, Kubernetes, or CI/CD
+-📫 Reach me at karkilov46@gmail.com
 - ⚡ Fun fact **I am totally funny boy**
 
 <h3 align="left">Connect with me:</h3>
