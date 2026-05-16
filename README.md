@@ -33,27 +33,21 @@ I'm a **Full Stack Developer and DevOps enthusiast** based in Nepal, focused on 
 
 **Frontend**
 
-[
-
 ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass&perline=7)
 
-]
 
 **Backend & Databases**
 
-[
 
 ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&perline=7)
 
-]
 
 **DevOps & Tools**
 
-[
 
 ![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,prometheus,git,postman,figma&perline=8)
 
-]
+
 
 
 
